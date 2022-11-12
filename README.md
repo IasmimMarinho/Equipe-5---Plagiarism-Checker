@@ -28,7 +28,7 @@ Definição de responsabilidades entre os integrantes. (Taks / responsável/ pra
 - [ ] Gerenciador do projeto - Matheus - 12/11/2022
 - [ ] Concluir User stories/Requisitos - Benjamin - 12/11/2022
 - [ ] Finalizar modelo de classes - Yuri - 12/11/2022
-- [ ] Plano de desenvolvimento - Iasmim - 12/11/2022
+- [x] Plano de desenvolvimento - Iasmim - 12/11/2022
 - [ ] Projeto em Execução v1 - Jonas, Laion, Brian e os outros ajudam conforme finalize a atividade. - 21/11/2022
   
 # LISTA DE REQUISITOS (em nenhuma ordem específica)
