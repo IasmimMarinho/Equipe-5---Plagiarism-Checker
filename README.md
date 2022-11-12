@@ -25,11 +25,11 @@ Para lidar com uma das principais dificuldades deste modelo - o desafio de se ma
   Discussão sobre o modelo de classes e definição da primeira versão.
 ### Reunião 2 - 9/11
 Definição de responsabilidades entre os integrantes. (Taks / responsável/ prazo)
-* <b>Gerenciador do projeto - Matheus - 12/11/2022
-* Concluir User stories/Requisitos - Benjamin - 12/11/2022
-* Finalizar modelo de classes - Yuri - 12/11/2022
-* Plano de desenvolvimento - Iasmim - 12/11/2022
-* Projeto em Execução v1 - Jonas, Laion, Brian e os outros ajudam conforme finalize a atividade. - 21/11/2022</b>
+- [ ] Gerenciador do projeto - Matheus - 12/11/2022
+- [ ] Concluir User stories/Requisitos - Benjamin - 12/11/2022
+- [ ] Finalizar modelo de classes - Yuri - 12/11/2022
+- [ ] Plano de desenvolvimento - Iasmim - 12/11/2022
+- [ ] Projeto em Execução v1 - Jonas, Laion, Brian e os outros ajudam conforme finalize a atividade. - 21/11/2022
   
 # LISTA DE REQUISITOS (em nenhuma ordem específica)
 ### A aplicação deve:
@@ -73,12 +73,12 @@ Como professor, gostaria de realizar análise de plágio para códigos e código
 
 ### v2
 
-Disponível em: https://app.diagrams.net/#G1c6baV5upgwpJMoCh_v7Xl7_J3I2W9ZfE
+Disponível em: <a href="https://app.diagrams.net/#G1c6baV5upgwpJMoCh_v7Xl7_J3I2W9ZfE">Diagrama de classes<a>
 
 # Gerenciador do Projeto
 
 # Repositório no Github
-https://github.com/IasmimMarinho/Equipe-5---Plagiarism-Checker-for-Assignments-in-Computer-Science-Courses
+<a href="https://github.com/IasmimMarinho/Equipe-5---Plagiarism-Checker-for-Assignments-in-Computer-Science-Courses">Repositório</a>
 
 # Referências
 https://docs.google.com/document/d/1od7NcSIeTqVu0jj97FUuI1KQCgNzYCpZp2cXyWQ8SPg/edit
