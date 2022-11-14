@@ -76,6 +76,7 @@ Como professor, gostaria de realizar análise de plágio para códigos e código
 Disponível em: <a href="https://app.diagrams.net/#G1c6baV5upgwpJMoCh_v7Xl7_J3I2W9ZfE">Diagrama de classes<a>
 
 # Gerenciador do Projeto
+<a href="https://trello.com/b/PtgWK2A0/projeto-eng-soft-equipe-5">Gerenciador do Projeto</a>
 
 # Repositório no Github
 <a href="https://github.com/IasmimMarinho/Equipe-5---Plagiarism-Checker-for-Assignments-in-Computer-Science-Courses">Repositório</a>
